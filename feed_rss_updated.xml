@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Thu, 25 Mar 2021 11:16:31 -0000</pubDate>
-    <lastBuildDate>Thu, 25 Mar 2021 11:16:31 -0000</lastBuildDate>
+    <pubDate>Fri, 26 Mar 2021 13:35:11 -0000</pubDate>
+    <lastBuildDate>Fri, 26 Mar 2021 13:35:11 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Revue de presse du 26 mars 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 26 mars 2021 : On vous rassure cette nouvelle revue de presse n&#39;a pas été impactée par le blocage du canal de Suez, les actualités ont continué d&#39;affluer</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/</link>
+      <pubDate>Fri, 26 Mar 2021 13:16:47 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-03-26/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/cnes_canal_suez.webp" type="None" length="69704" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 12 mars 2021</title>
@@ -705,27 +723,6 @@ Et puis...&lt;/p&gt;</description>
       <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-08-26/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse de la semaine du 12 septembre 2011</title>
-      
-      
-        
-      <author>GeoTribu</author>
-        
-      
-      <description>&lt;h1&gt;Revue de presse de la semaine du 12 septembre 2011&lt;/h1&gt;
-&lt;p&gt;:calendar: Date de publication initiale : 16 septembre 2011&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mots-clés :&lt;/strong&gt; Presse&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;News&#34; src=&#34;https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png&#34; title=&#34;Icône news générique&#34;&gt;{: .img-rdp-news-thumb }
- Beaucoup de news cette semaine, l&#39;effet Foss4G doit y être pour pas mal de choses :)&lt;/p&gt;
-&lt;p&gt;Donc du côté du congrès : &lt;a href=&#34;#cartoset&#34;&gt;CartoSet&lt;/a&gt;, &lt;a href=&#34;#mapmint&#34;&gt;MapMint&lt;/a&gt;, &lt;a href=&#34;#django-ol&#34;&gt;Django et Openlayers&lt;/a&gt;, &lt;a href=&#34;#mapfish&#34;&gt;Mapfish&lt;/a&gt;, &lt;a href=&#34;#geoext&#34;&gt;GeoExt&lt;/a&gt; et [Mapn...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2011/rdp_2011-09-16/</link>
-      <pubDate>Sat, 23 Jan 2021 09:38:58 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2011/rdp_2011-09-16/</guid>
       
     </item>
     
