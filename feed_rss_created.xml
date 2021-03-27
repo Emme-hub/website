@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Sat, 27 Mar 2021 13:14:22 -0000</pubDate>
-    <lastBuildDate>Sat, 27 Mar 2021 13:14:22 -0000</lastBuildDate>
+    <pubDate>Sat, 27 Mar 2021 18:27:21 -0000</pubDate>
+    <lastBuildDate>Sat, 27 Mar 2021 18:27:21 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -253,24 +253,6 @@
     </item>
     
     <item>
-      <title>QGIS embedded images - Cheatsheet</title>
-      
-      
-        
-      <author>Julien MOURA</author>
-        
-      
-      <description>Cheatsheet about embedded QGIS images: list, preview and snippet to easily insert in your PyQGIS development.</description>
-      <link>https://static.geotribu.fr/toc_nav_ignored/qgis_resources_preview_table/</link>
-      <pubDate>Mon, 01 Feb 2021 15:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/toc_nav_ignored/qgis_resources_preview_table/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/tuto/qgis_plugin_embedded_images/qgis_icons_preview_cheatsheet.png" type="image/png" length="171657" />
-      
-    </item>
-    
-    <item>
       <title>Revue de presse du 29 janvier 2021</title>
       
       
@@ -379,34 +361,6 @@
     </item>
     
     <item>
-      <title>Rédiger en Markdown : comprendre l&#39;en-tête</title>
-      
-      
-      <description>Rédiger en Markdown : de l&#39;importance de l&#39;en-tête (YAML front-matter) pour définir les métadonnées, la navigation et le référencement.</description>
-      <link>https://static.geotribu.fr/contribuer/guides/metadata_yaml_frontmatter/</link>
-      <pubDate>Tue, 05 Jan 2021 20:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/metadata_yaml_frontmatter/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/internal/contribution/markdown/markdown_yaml_frontmatter.png" type="image/png" length="267228" />
-      
-    </item>
-    
-    <item>
-      <title>Florian Boret</title>
-      
-      
-      <description>&lt;h1&gt;Florian Boret&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&#34;Portrait Florian Boret&#34; src=&#34;https://cdn.geotribu.fr/img/internal/contributeurs/fbor.png&#34; title=&#34;Portrait Florian Boret&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
-&lt;p&gt;Géomaticien/cartographe, je suis arrivé dans le monde de la géomatique en suivant un cursus « professionnalisant » (BTS Géomètre-Topographe, Licence pro GGAT, Master SIGAT). J’ai ensuite travaillé dans un bureau d’études spécialisé dans la production de données d’occupation du sol et puis pour des raisons personnelles je me suis expatrié que...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/team/fbor/</link>
-      <pubDate>Mon, 04 Jan 2021 21:40:16 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/team/fbor/</guid>
-      
-    </item>
-    
-    <item>
       <title>Geotribu à la maison</title>
       
       
@@ -439,21 +393,6 @@
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-12-25/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/merry_christmas_blender.png" type="image/png" length="530787" />
-      
-    </item>
-    
-    <item>
-      <title>Aurélien Chaumet</title>
-      
-      
-      <description>&lt;h1&gt;Aurélien Chaumet&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&#34;Portrait Aurélien Chaumet&#34; src=&#34;https://cdn.geotribu.fr/img/internal/contributeurs/achaumet.webp&#34; title=&#34;Portrait Aurélien Chaumet&#34;&gt;{: .img-rdp-news-thumb }&lt;/p&gt;
-&lt;p&gt;Ingénieur en Aménagement du territoire, je suis arrivé à la géomatique par un hasard de parcours professionnel en 2016, suite à mon admission au concours d&#39;ingénieur territorial.&lt;/p&gt;
-&lt;p&gt;De formation autodidacte, je travaille au Pays Marennes Oléron en tant que chargé de mission Système d&#39;Information Territoriale, sur toutes les théma...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/team/acha/</link>
-      <pubDate>Sat, 19 Dec 2020 10:19:28 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/team/acha/</guid>
       
     </item>
     
@@ -658,48 +597,6 @@
     </item>
     
     <item>
-      <title>Comprendre le rendu Markdown</title>
-      
-      
-      <description>Comprendre le fonctionnement de Python Markdown et ses spécificités pour contribuer en markdown à Geotribu.</description>
-      <link>https://static.geotribu.fr/contribuer/build_site/markdown_engine/</link>
-      <pubDate>Mon, 14 Sep 2020 14:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/build_site/markdown_engine/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/internal/contribution/markdown_exemple.png" type="image/png" length="182130" />
-      
-    </item>
-    
-    <item>
-      <title>Rédiger en Markdown : bases et spécimen</title>
-      
-      
-      <description>Maîtriser les bases de la rédaction en Markdown pour contribuer à Geotribu et exemples de mise en forme.</description>
-      <link>https://static.geotribu.fr/contribuer/guides/markdown_basics/</link>
-      <pubDate>Mon, 14 Sep 2020 14:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/markdown_basics/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/internal/contribution/markdown_quick_exemple_rendu.png" type="image/png" length="36567" />
-      
-    </item>
-    
-    <item>
-      <title>Rédiger en Markdown : enjeux de qualité et régles</title>
-      
-      
-      <description>Rédiger en Markdown : règles partagées, erreurs fréquentes et mécanismes de validation.</description>
-      <link>https://static.geotribu.fr/contribuer/guides/markdown_quality/</link>
-      <pubDate>Mon, 14 Sep 2020 14:20:00 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/contribuer/guides/markdown_quality/</guid>
-      
-      <enclosure url="https://cdn.geotribu.fr/img/internal/contribution/markdown_quick_exemple_rendu.png" type="image/png" length="36567" />
-      
-    </item>
-    
-    <item>
       <title>Du HTML en Markdown (et vice-versa)</title>
       
       
@@ -732,6 +629,136 @@
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-09_geodatadays/</guid>
       
       <enclosure url="https://cdn.geotribu.fr/img/external/salons_conferences/geodatadays/2020/geodatadays_2020_banniere.jpg" type="image/jpeg" length="452027" />
+      
+    </item>
+    
+    <item>
+      <title>Le web-scraping avec Scrapy</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Utiliser le web-scraping (Scrapy) pour récupérer les anciens contenus de Geotribu depuis l&#39;Internet Archive.</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</link>
+      <pubDate>Tue, 08 Sep 2020 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-09-08_web-scraping_scrapy_geotribu/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/webscraping/web_scraping.png" type="image/png" length="48052" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 4 septembre 2020</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 4 Septembre 2020 : présentation de tegola, un serveur de tuiles vectorielles en Go, Leaflet 1.7, nid d&#39;abeilles avec Plotly, un logo pour GeoPandas, avalanche de ressources sur QGIS, Deck GL en C++, sortie du n°128 de M@ppemonde, outils de dessin dans LizMap, données de la canopée mondiale, cartographie artistique et dynamique de l&#39;évolution du glacier du Rhône, D3 en version 6</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</link>
+      <pubDate>Fri, 04 Sep 2020 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-09-04/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/logos-icones/framework_os.jpeg" type="image/jpeg" length="49908" />
+      
+    </item>
+    
+    <item>
+      <title>Histoire de Geotribu : vie, mort et renaissance.</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Invité à faire un retour d&#39;expérience sur l&#39;aventure Geotribu, voici une petite histoire du site : naissance, jeunesse, vie, mort... et renaissance en 2020. Souvenirs, souvenirs et avenir !</description>
+      <link>https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</link>
+      <pubDate>Mon, 31 Aug 2020 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2020/2020-08-31_geotribu_histoire/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/geotribu/history/geotribu_frise_chrono_2006-2017.png" type="image/png" length="72015" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 21 août 2020</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>Revue de presse géomatique du 21 août 2020 (#GeoRDP) : les visualisations de Craig Taylor, l&#39;accès libre (mais caché !) aux orthophographies en haute résolution de l&#39;IGN, le travail en cours sur une balise HTML map (Map4HTML ou MapML), une faute de frappe dans OSM aboutit sur une incongruité (mot compte triple) dans Flight Simulator, une Google Car arrêtée par la gendarmerie française et la finalisation de la constellation de satellites chinois BeiDou.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</link>
+      <pubDate>Fri, 21 Aug 2020 14:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-21/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/osm_flight_simulator_melbourde.jpeg" type="image/jpeg" length="64330" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 7 août 2020</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>Revue de presse géomatique du 7 août 2020 (#GeoRDP) : OpenLayers 6.4, pgRouting 3.1, nouveau site GRASS, impact des météorites sur Terre, le Dessus des Cartes, OSM a 16 ans, SAGEO 2021</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</link>
+      <pubDate>Fri, 07 Aug 2020 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-08-07/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/map_as_a_fish_mapporn.jpeg" type="image/jpeg" length="39906" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 24 juillet 2020</title>
+      
+      
+        
+      <author>Arnaud Van de Casteele</author>
+        
+      <author>Julien Moura</author>
+        
+      <author>Mathieu Rajerison</author>
+        
+      
+      <description>Revue de presse géomatique (GeoRDP) du 24 juillet 2020 : API QGIS unifiée, carte de l&#39;univers, néologismes, animation 3D avec R stats, GeoDataDays, Uber et Google Maps, valeur économique de l&#39;information géographique, présentation de Kalisio, etc.</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</link>
+      <pubDate>Fri, 24 Jul 2020 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-07-24/</guid>
+      
+      <enclosure url="https://raw.githubusercontent.com/tylermorganwall/rayshader/master/man/figures/smallfeature.png" type="image/png" length="321039" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 10 juillet 2020</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>Revue de presse géomatique du 10 juillet 2020 : éditeur OSM en Python, flux RSS Geotribu, Landsat dans le cloud, vision sur le futur du SIG open source, 16è conférence gvSIG</description>
+      <link>https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</link>
+      <pubDate>Fri, 10 Jul 2020 10:20:00 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2020/rdp_2020-07-10/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/osmapy.png" type="image/png" length="768315" />
       
     </item>
     
