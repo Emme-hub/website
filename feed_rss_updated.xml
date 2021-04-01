@@ -11,11 +11,11 @@
     <managingEditor>Geotribu</managingEditor>
     
     <docs>https://github.com/geotribu/website/</docs>
-    <language>en</language>
+    <language>fr</language>
 
     
-    <pubDate>Thu, 01 Apr 2021 12:03:43 -0000</pubDate>
-    <lastBuildDate>Thu, 01 Apr 2021 12:03:43 -0000</lastBuildDate>
+    <pubDate>Thu, 01 Apr 2021 20:58:30 -0000</pubDate>
+    <lastBuildDate>Thu, 01 Apr 2021 20:58:30 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -42,7 +42,7 @@
       
       <description>Présentation du plugin de Geotribu pour QGIS : QTribu. Inutile donc forcément indispensable.</description>
       <link>https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/</link>
-      <pubDate>Thu, 01 Apr 2021 11:51:17 -0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 20:57:47 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/</guid>
       
