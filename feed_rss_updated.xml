@@ -11,11 +11,11 @@
     <managingEditor>Geotribu</managingEditor>
     
     <docs>https://github.com/geotribu/website/</docs>
-    <language>en</language>
+    <language>fr</language>
 
     
-    <pubDate>Thu, 01 Apr 2021 00:28:58 -0000</pubDate>
-    <lastBuildDate>Thu, 01 Apr 2021 00:28:58 -0000</lastBuildDate>
+    <pubDate>Thu, 01 Apr 2021 11:56:01 -0000</pubDate>
+    <lastBuildDate>Thu, 01 Apr 2021 11:56:01 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>QTribu, le plugin QGIS inutile donc forcément indispensable</title>
+      
+      
+        
+      <author>Julien MOURA</author>
+        
+      
+      <description>Présentation du plugin de Geotribu pour QGIS : QTribu. Inutile donc forcément indispensable.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/</link>
+      <pubDate>Thu, 01 Apr 2021 11:51:17 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/projets-geotribu/plugin_qtribu/qtribu_article_displayed.png" type="image/png" length="592120" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 7 novembre 2014</title>
@@ -691,19 +709,6 @@ Cette semaine encore et toujours des nouveautés. Celles-ci concernent plutôt d
       <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-05-31/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 14 juin 2013</title>
-      
-      
-      <description>&lt;h1&gt;Revue de presse du 14 juin 2013&lt;/h1&gt;
-&lt;p&gt;Cette semaine, l’Administration Américaine surveille tous vos échanges sur la toile… et comme chaque vendredi elle rédige son rapport aux plus hautes instances du pouvoir.  De notre côté,comme chaque semaine, nous surveillons tous mouvements suspicieux de géoinformations ! La semaine fut chargée mais grâce à notre dernière recrue (l’agent &lt;a href=&#34;https://twitter.com/AdrienVH&#34;&gt;@AdrienVH&lt;/a&gt;), nous nous en sommes bien sorti. Les géoattaques du &lt;strong&gt;FROG&lt;/strong&gt; furent nombreuses...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-06-14/</link>
-      <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-06-14/</guid>
       
     </item>
     
