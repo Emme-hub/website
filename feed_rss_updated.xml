@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Thu, 01 Apr 2021 20:58:30 -0000</pubDate>
-    <lastBuildDate>Thu, 01 Apr 2021 20:58:30 -0000</lastBuildDate>
+    <pubDate>Wed, 07 Apr 2021 11:47:27 -0000</pubDate>
+    <lastBuildDate>Wed, 07 Apr 2021 11:47:27 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -33,6 +33,42 @@
     
     
     <item>
+      <title>Représentation d&#39;un réseau de bus</title>
+      
+      
+        
+      <author>Florian Boret</author>
+        
+      
+      <description>Représenter un réseau de bus et gérer la superposition des lignes</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-07_carte_reseau_bus/</link>
+      <pubDate>Wed, 07 Apr 2021 11:14:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-07_carte_reseau_bus/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/reseau_bus_qgis/reseau_bus_osm.png" type="image/png" length="821196" />
+      
+    </item>
+    
+    <item>
+      <title>Revue de presse du 26 février 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 26 février 2021 : cette édition de la revue de presse de la géomatique open-source a été co-rédigée à 16 mains. Cette dimension collaborative se retrouve dans la diversité des sujets évoqués : artificialisation des sols, MOOC Adresse, Géovélo, nuages de poussière et les traditionnelles évolutions d&#39;outils dont QGIS 3.16 LTR et QGIS 3.18 et bien d&#39;autres choses encore.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</link>
+      <pubDate>Sat, 03 Apr 2021 08:55:44 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-02-26/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/nasa_perseverance_mars_map.jpg" type="image/jpeg" length="231265" />
+      
+    </item>
+    
+    <item>
       <title>QTribu, le plugin QGIS inutile donc forcément indispensable</title>
       
       
@@ -46,7 +82,7 @@
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-01_qtribu_plugin_qgis_geotribu/</guid>
       
-      <enclosure url="https://cdn.geotribu.fr/img/projets-geotribu/plugin_qtribu/qtribu_article_displayed.png" type="image/png" length="592120" />
+      <enclosure url="https://cdn.geotribu.fr/img/projets-geotribu/plugin_qtribu/qtribu_article_displayed.png" type="image/png" length="289168" />
       
     </item>
     
@@ -683,32 +719,6 @@ Cette semaine encore et toujours des nouveautés. Celles-ci concernent plutôt d
       <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-04-12/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 10 Mai 2013</title>
-      
-      
-      <description>&lt;h1&gt;Revue de presse du 10 Mai 2013&lt;/h1&gt;
-&lt;p&gt;Cette semaine, OpenStreetMap fait la une avec la sortie de ID son nouvel éditeur Web! Mais ce n&#39;est pas tout. En effet, notons également la disponibilité d&#39;une nouvelle application nommée &#34;Show me the Way&#34; ainsi que deux articles dediés au fameux projet de cartographie communautaire. Néanmoins, ce n&#39;est pas une raison pour éclipser les autres actualités de la semaine. Notons la sortie de GDAL/OGR en version 1.10.0 ainsi que MapStore en version 1.2.0. Enfin te...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-05-10/</link>
-      <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-05-10/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 31 Mai 2013</title>
-      
-      
-      <description>&lt;h1&gt;Revue de presse du 31 Mai 2013&lt;/h1&gt;
-&lt;p&gt;Malgré notre &lt;a href=&#34;http://geotribu.net/node/621&#34;&gt;première GeoInterview&lt;/a&gt;, nous avons tout de même trouve l’énergie pour vous pondre une revue de presse pleine de news. Au menu de celle-ci, la sortie de MapMeter, le nouveau joujou des geeks cartographes venus tout droit de chez OpenGeo. Mais aussi une carte bien déjantée des futures représentations du groupe MGMT ainsi qu&#39;une rétrospective et quelques annonces pour la bibliothèque cartographique Leaflet. Au niveau l...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-05-31/</link>
-      <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-05-31/</guid>
       
     </item>
     
