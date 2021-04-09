@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Wed, 07 Apr 2021 11:47:27 -0000</pubDate>
-    <lastBuildDate>Wed, 07 Apr 2021 11:47:27 -0000</lastBuildDate>
+    <pubDate>Fri, 09 Apr 2021 12:36:25 -0000</pubDate>
+    <lastBuildDate>Fri, 09 Apr 2021 12:36:25 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Revue de presse du 9 avril 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 9 avril 2021 : Cette semaine, retour vers le futur, on a replongé 4000 ans en arrière pour entrevoir ce qui pourrait bien être la plus vieille carte d&#39;Europe. Plusieurs articles ont été pbuliés sur GeoTribu et vous trouverez également les parcelles publiques en open data, des ressources ouvertes sur PostgreSQL et QGIS notamment et plein d&#39;autres choses. Bonne lecture !</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/</link>
+      <pubDate>Fri, 09 Apr 2021 11:54:25 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-04-09/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/tuto/static_web/geotribu_theme_i386_poisson_avril_2021.png" type="image/png" length="183623" />
+      
+    </item>
     
     <item>
       <title>Représentation d&#39;un réseau de bus</title>
@@ -706,19 +724,6 @@ Cette semaine encore et toujours des nouveautés. Celles-ci concernent plutôt d
       <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-03-22/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 12 avril 2013</title>
-      
-      
-      <description>&lt;h1&gt;Revue de presse du 12 avril 2013&lt;/h1&gt;
-&lt;p&gt;C&#39;est une belle revue de presse que nous vous offrons cette semaine. D&#39;ailleurs, je tiens à remercier les différents contributeurs1 sans qui vous n&#39;auriez pas votre bol de news hebdomadaire. Bon revenons à notre sujet principal. Au menu, vous aurez droit à la sortie de la V2 de Monteverdi et de la nouvelle version de LizMap. Basculons ensuite sur OpenStreetMap avec cette superbe réalisation 3D ou encore la version française de Learn OSM. Profitons en égalem...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-04-12/</link>
-      <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-04-12/</guid>
       
     </item>
     
