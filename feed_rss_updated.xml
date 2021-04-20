@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Sat, 10 Apr 2021 12:26:29 -0000</pubDate>
-    <lastBuildDate>Sat, 10 Apr 2021 12:26:29 -0000</lastBuildDate>
+    <pubDate>Tue, 20 Apr 2021 07:33:50 -0000</pubDate>
+    <lastBuildDate>Tue, 20 Apr 2021 07:33:50 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Faire de la cartographie thématique sur le Web avec MapLibreGL</title>
+      
+      
+        
+      <author>Boris MERICSKAY</author>
+        
+      
+      <description>Fork open source de MapboxGL, MapLibreGL représente l’une des solutions actuelles de cartographie en ligne les plus intéressantes. Afin de documenter et de partager une série d’expérimentations autour de la cartographie thématique sur le Web, la mise en place d’un site Web apparait comme une bonne solution pour donner à voir les possibilités de cartographie thématiques permises par MapLibreGL.</description>
+      <link>https://static.geotribu.fr/articles/2021/2021-04-20_maplibre_site_ressource/</link>
+      <pubDate>Tue, 20 Apr 2021 07:29:18 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-20_maplibre_site_ressource/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/maplibre_site_ressource/accueil_site.JPG" type="image/jpeg" length="308996" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 9 avril 2021</title>
@@ -711,19 +729,6 @@ Cette semaine encore et toujours des nouveautés. Celles-ci concernent plutôt d
       <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-03-15/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 22 mars 2013</title>
-      
-      
-      <description>&lt;h1&gt;Revue de presse du 22 mars 2013&lt;/h1&gt;
-&lt;p&gt;Premiers jours du printemps... Cela se ressent dans notre univers de la géomatique qui bourgeonne de nouvelles. Commençons bien évidemment par nos habituelles sorties de la semaine. Nous parlerons notamment de la version 2.3.0 de Geoserver, du moteur d’itinéraires Open Source OSRM ou encore de la future version de QGIS. Ensuite, la majeure partie de cette revue de presse est consacrée à OpenStreetMap avec cette carte Michelin utilisant les données OSM ou enc...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-03-22/</link>
-      <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-03-22/</guid>
       
     </item>
     
