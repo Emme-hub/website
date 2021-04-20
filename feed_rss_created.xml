@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Tue, 20 Apr 2021 07:33:50 -0000</pubDate>
-    <lastBuildDate>Tue, 20 Apr 2021 07:33:50 -0000</lastBuildDate>
+    <pubDate>Tue, 20 Apr 2021 10:34:36 -0000</pubDate>
+    <lastBuildDate>Tue, 20 Apr 2021 10:34:36 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -46,7 +46,7 @@
       <source url="https://static.geotribu.fr/feed_rss_created.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/articles/2021/2021-04-20_maplibre_site_ressource/</guid>
       
-      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/maplibre_site_ressource/accueil_site.JPG" type="image/jpeg" length="308996" />
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/articles/maplibre_site_ressource/accueil_site.png" type="image/png" length="529637" />
       
     </item>
     
