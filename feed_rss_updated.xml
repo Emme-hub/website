@@ -14,8 +14,8 @@
     <language>fr</language>
 
     
-    <pubDate>Wed, 21 Apr 2021 20:19:28 -0000</pubDate>
-    <lastBuildDate>Wed, 21 Apr 2021 20:19:28 -0000</lastBuildDate>
+    <pubDate>Wed, 21 Apr 2021 20:25:46 -0000</pubDate>
+    <lastBuildDate>Wed, 21 Apr 2021 20:25:46 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -31,6 +31,24 @@
     
 
     
+    
+    <item>
+      <title>Revue de presse du 12 mars 2021</title>
+      
+      
+        
+      <author>Geotribu</author>
+        
+      
+      <description>GeoRDP du 12 mars 2021 : la revue de presse de la géomatique libre et open source.</description>
+      <link>https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/</link>
+      <pubDate>Wed, 21 Apr 2021 20:25:03 -0000</pubDate>
+      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
+      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2021/rdp_2021-03-12/</guid>
+      
+      <enclosure url="https://cdn.geotribu.fr/img/articles-blog-rdp/capture-ecran/cran_motif_packages.png" type="image/png" length="146596" />
+      
+    </item>
     
     <item>
       <title>Revue de presse du 26 mars 2021</title>
@@ -720,20 +738,6 @@ Cette semaine encore et toujours des nouveautés. Celles-ci concernent plutôt d
       <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
       <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
       <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-02-22/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Revue de presse du 1er mars 2013</title>
-      
-      
-      <description>&lt;h1&gt;Revue de presse du 1er mars 2013&lt;/h1&gt;
-&lt;p&gt;GeoTribu vous propose cette semaine quelques inévitables sorties avec une nouvelle version de GEOS, une nouvelle version de l&#39;excellent OSGeo-Live, une mise à jour de GeoServer et de MapStore. OpenStreetMap est également à l&#39;honneur avec les sessions de rattrapage du SOTM, des articles sur la généralisation des routes OSM, l&#39;annonce pour le prochain SOTM et pour finir 2 nouveaux serveurs pour la fondation.&lt;/p&gt;
-&lt;p&gt;Enfin, nous saluons l&#39;initiative OpenFoodFacts qui...&lt;/p&gt;</description>
-      <link>https://static.geotribu.fr/rdp/2013/rdp_2013-03-01/</link>
-      <pubDate>Sat, 27 Mar 2021 16:35:55 -0000</pubDate>
-      <source url="https://static.geotribu.fr/feed_rss_updated.xml">Geotribu</source>
-      <guid isPermaLink="true">https://static.geotribu.fr/rdp/2013/rdp_2013-03-01/</guid>
       
     </item>
     
